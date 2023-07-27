@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-[![Mena's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingMenes)](https://github.com/anuraghazra/github-readme-stats)
+<!--![![Mena's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingMenes)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=KingMenes)
 <!--
