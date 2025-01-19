@@ -4,10 +4,10 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+[visitors](https://visitor-badge.glitch.me/badge?page_id=KingMenes)
 
 <!--![![Mena's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingMenes)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=KingMenes)
 <!--
 **KingMenes/KingMenes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
