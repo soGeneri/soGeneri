@@ -5,5 +5,5 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 📽️ Current Projects:
-* [Awesome Launch](awesome-launch.com) - An all-in-one directory to help founders and creators start and develop their dream project!
-* [Penny Pixel](pennypixel.xyz) - Paint and participate on a public graffiti board for charity!
+* [Awesome Launch](https://awesome-launch.com/) - An all-in-one directory to help founders and creators start and develop their dream project!
+* [Penny Pixel](https://www.pennypixel.xyz/) - Paint and participate on a public graffiti board for charity!
